@@ -1,4 +1,7 @@
 # Visualise AMSA Vessel Positions
+
+![Maritime Vessel Locations](amsa_vessel_locations.webp)
+
 A few different visualisations of the Australian Maritime Safety Authory (AMSA) vessel position data.
 
 The code in this repo depends on data formatted with the scraping and data preparation scripts in my [scrape_amsa_vessel_positions repo](https://github.com/owenlamont/scrape_amsa_vessel_positions).
